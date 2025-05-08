@@ -1,0 +1,6 @@
+streamlit
+google-generativeai
+selenium
+webdriver-manager
+python-dotenv
+streamlit-ace
